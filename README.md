@@ -15,7 +15,7 @@
 
 ### Why aren't this working on my computer?
   Becuase you will need our database...
-  But you are free to download our code anything and use it.
+  But you are free to download our code anytime and use it.
   
 ### Created by
 * Casper Gommesen
